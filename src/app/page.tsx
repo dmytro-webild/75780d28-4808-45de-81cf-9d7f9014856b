@@ -45,12 +45,12 @@ export default function LandingPage() {
             description="We are Hàlo games, a premier Roblox development studio crafting the next generation of fashion and runway experiences for millions of players."
             testimonials={[
               { name: "Alex P.", handle: "@showoff_pro", testimonial: "The best runway game on Roblox ever!", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-5uswmgnw.png", imageAlt: "User provided image" },
-              { name: "Jamie L.", handle: "@fashionqueen", testimonial: "Can't wait for Makeup Stars to drop!", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png", imageAlt: "User provided image" },
-              { name: "Sam R.", handle: "@roblox_dev", testimonial: "Hàlo games always delivers perfection.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-70df7kfk.png", imageAlt: "User provided image" },
-              { name: "Taylor B.", handle: "@runway_king", testimonial: "Amazing graphics and gameplay loop.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/an-ethereal-nebula-inspired-background-w-1775839360199-e44a393f.png", imageAlt: "An ethereal nebula-inspired background with subtle purple and blue gradient light rays. A clean, mod" },
-              { name: "Riley M.", handle: "@makeup_fan", testimonial: "Simply the best experience I've had.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/cheerful-young-man-playing-video-game-tablet_1262-4766.jpg", imageAlt: "happy gamer portrait" },
+              { name: "Jamie L.", handle: "@fashionqueen", testimonial: "Can't wait for Makeup Stars to drop!", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png?_wi=1", imageAlt: "User provided image" },
+              { name: "Sam R.", handle: "@roblox_dev", testimonial: "Hàlo games always delivers perfection.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-70df7kfk.png?_wi=1", imageAlt: "User provided image" },
+              { name: "Taylor B.", handle: "@runway_king", testimonial: "Amazing graphics and gameplay loop.", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/an-ethereal-nebula-inspired-background-w-1775839360199-e44a393f.png?_wi=1", imageAlt: "An ethereal nebula-inspired background with subtle purple and blue gradient light rays. A clean, mod" },
+              { name: "Riley M.", handle: "@makeup_fan", testimonial: "Simply the best experience I've had.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/cheerful-young-man-playing-video-game-tablet_1262-4766.jpg?_wi=1", imageAlt: "happy gamer portrait" },
             ]}
-            imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/an-ethereal-nebula-inspired-background-w-1775839360199-e44a393f.png"
+            imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/an-ethereal-nebula-inspired-background-w-1775839360199-e44a393f.png?_wi=2"
             mediaAnimation="blur-reveal"
             avatars={[
               { src: "http://img.b2bpic.net/free-photo/cheerful-young-man-playing-video-game-tablet_1262-4766.jpg", alt: "Gamer avatar 1" },
@@ -92,12 +92,12 @@ export default function LandingPage() {
             gridVariant="three-columns-all-equal-width"
             useInvertedBackground={false}
             products={[
-              { id: "p1", brand: "Hàlo Games", name: "Show Off", price: "LIVE", rating: 5, reviewCount: "2.5M+ Visits", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png" },
-              { id: "p2", brand: "Hàlo Games", name: "Makeup Stars", price: "SOON", rating: 0, reviewCount: "Coming Soon", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-70df7kfk.png" },
-              { id: "p3", brand: "Hàlo Games", name: "More Coming Soon", price: "TBA", rating: 0, reviewCount: "Stay Tuned", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png" },
-              { id: "p4", brand: "Hàlo Games", name: "Stay Tuned", price: "TBA", rating: 0, reviewCount: "Stay Tuned", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-70df7kfk.png" },
-              { id: "p5", brand: "Hàlo Games", name: "More Coming Soon", price: "TBA", rating: 0, reviewCount: "Stay Tuned", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png" },
-              { id: "p6", brand: "Hàlo Games", name: "Stay Tuned", price: "TBA", rating: 0, reviewCount: "Stay Tuned", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-70df7kfk.png" },
+              { id: "p1", brand: "Hàlo Games", name: "Show Off", price: "LIVE", rating: 5, reviewCount: "2.5M+ Visits", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png?_wi=2" },
+              { id: "p2", brand: "Hàlo Games", name: "Makeup Stars", price: "SOON", rating: 0, reviewCount: "Coming Soon", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-70df7kfk.png?_wi=2" },
+              { id: "p3", brand: "Hàlo Games", name: "More Coming Soon", price: "TBA", rating: 0, reviewCount: "Stay Tuned", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png?_wi=3" },
+              { id: "p4", brand: "Hàlo Games", name: "Stay Tuned", price: "TBA", rating: 0, reviewCount: "Stay Tuned", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-70df7kfk.png?_wi=3" },
+              { id: "p5", brand: "Hàlo Games", name: "More Coming Soon", price: "TBA", rating: 0, reviewCount: "Stay Tuned", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png?_wi=4" },
+              { id: "p6", brand: "Hàlo Games", name: "Stay Tuned", price: "TBA", rating: 0, reviewCount: "Stay Tuned", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-70df7kfk.png?_wi=4" },
             ]}
             title="Featured Titles"
             description="Explore our top-rated fashion and lifestyle games on Roblox."
@@ -111,7 +111,7 @@ export default function LandingPage() {
             gridVariant="uniform-all-items-equal"
             useInvertedBackground={true}
             testimonials={[
-              { id: "t1", name: "Alex P.", role: "Player", company: "Show Off", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/cheerful-young-man-playing-video-game-tablet_1262-4766.jpg" },
+              { id: "t1", name: "Alex P.", role: "Player", company: "Show Off", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/cheerful-young-man-playing-video-game-tablet_1262-4766.jpg?_wi=2" },
               { id: "t2", name: "Jamie L.", role: "Player", company: "Show Off", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/gaming-setup-with-laptop-desk-still-life_23-2149829155.jpg" },
               { id: "t3", name: "Sam R.", role: "Player", company: "Show Off", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/black-american-woman-holding-basketball_23-2148773333.jpg" },
               { id: "t4", name: "Taylor B.", role: "Player", company: "Show Off", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/full-shot-happy-man-winning-game_23-2149005177.jpg" },

@@ -30,7 +30,6 @@ export default function LandingPage() {
             navItems={[
               { name: "Home", id: "hero" },
               { name: "Games", id: "games" },
-              { name: "Community", id: "community" },
             ]}
             logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-5uswmgnw.png"
             brandName="Hàlo games"
@@ -76,7 +75,6 @@ export default function LandingPage() {
             gridVariant="uniform-all-items-equal"
             useInvertedBackground={true}
             metrics={[
-              { id: "m1", value: "100K+", description: "Total Group Members" },
               { id: "m2", value: "2.5M+", description: "Game Visits" },
               { id: "m3", value: "150K+", description: "Total Favorites" },
             ]}
@@ -92,15 +90,12 @@ export default function LandingPage() {
             gridVariant="three-columns-all-equal-width"
             useInvertedBackground={false}
             products={[
-              { id: "p1", brand: "Hàlo Games", name: "Show Off", price: "LIVE", rating: 5, reviewCount: "2.5M+ Visits", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png?_wi=2" },
-              { id: "p2", brand: "Hàlo Games", name: "Makeup Stars", price: "SOON", rating: 0, reviewCount: "Coming Soon", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-70df7kfk.png?_wi=2" },
-              { id: "p3", brand: "Hàlo Games", name: "More Coming Soon", price: "TBA", rating: 0, reviewCount: "Stay Tuned", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png?_wi=3" },
-              { id: "p4", brand: "Hàlo Games", name: "Stay Tuned", price: "TBA", rating: 0, reviewCount: "Stay Tuned", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-70df7kfk.png?_wi=3" },
-              { id: "p5", brand: "Hàlo Games", name: "More Coming Soon", price: "TBA", rating: 0, reviewCount: "Stay Tuned", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png?_wi=4" },
-              { id: "p6", brand: "Hàlo Games", name: "Stay Tuned", price: "TBA", rating: 0, reviewCount: "Stay Tuned", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-70df7kfk.png?_wi=4" },
+              { id: "p1", brand: "Hàlo Games", name: "Show Off", price: "PLAY NOW", rating: 0, reviewCount: "", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png?_wi=2", onProductClick: () => window.location.href = 'https://www.roblox.com' },
+              { id: "p2", brand: "Hàlo Games", name: "Makeup Stars", price: "COMING SOON", rating: 0, reviewCount: "", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-70df7kfk.png?_wi=2" },
+              { id: "p3", brand: "Hàlo Games", name: "Secret Project", price: "COMING SOON", rating: 0, reviewCount: "", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png?_wi=3" },
             ]}
             title="Featured Titles"
-            description="Explore our top-rated fashion and lifestyle games on Roblox."
+            description="Explore our upcoming and live fashion titles."
           />
         </div>
 

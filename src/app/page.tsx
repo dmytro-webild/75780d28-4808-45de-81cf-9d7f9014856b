@@ -42,7 +42,7 @@ export default function LandingPage() {
             title="Drawing smiles on your face."
             description="We are Hàlo games, a premier Roblox development studio crafting the next generation of fashion and runway experiences for millions of players."
             testimonials={[]}
-            imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/an-ethereal-nebula-inspired-background-w-1775839360199-e44a393f.png?_wi=2"
+            imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775840931317-is4c2srl.png"
             mediaAnimation="blur-reveal"
             avatars={[]}
             marqueeItems={[

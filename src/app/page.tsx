@@ -77,9 +77,9 @@ export default function LandingPage() {
             gridVariant="three-columns-all-equal-width"
             useInvertedBackground={false}
             products={[
-              { id: "p1", brand: "Hàlo Games", name: "Show Off", price: "PLAY NOW", rating: 5, reviewCount: "100K+", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png?_wi=2", onProductClick: () => window.open('https://www.roblox.com/games/123456789/Show-Off', '_blank') },
-              { id: "p2", brand: "Hàlo Games", name: "Makeup Stars", price: "COMING SOON", rating: 0, reviewCount: "", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/placeholder-dark.png" },
-              { id: "p3", brand: "Hàlo Games", name: "Secret Project", price: "COMING SOON", rating: 0, reviewCount: "", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png?_wi=3" },
+              { id: "p1", brand: "Hàlo Games", name: "Show Off", price: "PLAY NOW", rating: 5, reviewCount: "100K+", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775840542642-wj1d5ikj.png", onProductClick: () => window.open('https://www.roblox.com/games/123456789/Show-Off', '_blank') },
+              { id: "p2", brand: "Hàlo Games", name: "Makeup Stars", price: "COMING SOON", rating: 0, reviewCount: "", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775840553260-wf2ajfs8.png" },
+              { id: "p3", brand: "Hàlo Games", name: "Everfrost Couture", price: "COMING SOON", rating: 0, reviewCount: "", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775840669143-6zgtu89k.png" },
             ]}
             title="Featured Titles"
             description="Explore our upcoming and live fashion titles."

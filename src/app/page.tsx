@@ -8,7 +8,6 @@ import MetricCardTwo from '@/components/sections/metrics/MetricCardTwo';
 import NavbarStyleCentered from '@/components/navbar/NavbarStyleCentered/NavbarStyleCentered';
 import ProductCardTwo from '@/components/sections/product/ProductCardTwo';
 import SocialProofOne from '@/components/sections/socialProof/SocialProofOne';
-import TestimonialCardOne from '@/components/sections/testimonial/TestimonialCardOne';
 
 export default function LandingPage() {
   return (
@@ -85,24 +84,6 @@ export default function LandingPage() {
             title="Featured Titles"
             description="Explore our upcoming and live fashion titles."
             uniformGridCustomHeightClasses="min-h-[600px]"
-          />
-        </div>
-
-        <div id="testimonials" data-section="testimonials">
-          <TestimonialCardOne
-            animationType="slide-up"
-            textboxLayout="split"
-            gridVariant="uniform-all-items-equal"
-            useInvertedBackground={true}
-            testimonials={[
-              { id: "t1", name: "Alex P.", role: "Player", company: "Show Off", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/cheerful-young-man-playing-video-game-tablet_1262-4766.jpg?_wi=2" },
-              { id: "t2", name: "Jamie L.", role: "Player", company: "Show Off", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/gaming-setup-with-laptop-desk-still-life_23-2149829155.jpg" },
-              { id: "t3", name: "Sam R.", role: "Player", company: "Show Off", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/black-american-woman-holding-basketball_23-2148773333.jpg" },
-              { id: "t4", name: "Taylor B.", role: "Player", company: "Show Off", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/full-shot-happy-man-winning-game_23-2149005177.jpg" },
-              { id: "t5", name: "Riley M.", role: "Player", company: "Show Off", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/side-view-friends-playing-videogame_23-2149350036.jpg" },
-            ]}
-            title="Player Love"
-            description="Hear what our amazing community has to say."
           />
         </div>
 

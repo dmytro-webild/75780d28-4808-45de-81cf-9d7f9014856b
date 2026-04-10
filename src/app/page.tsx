@@ -81,7 +81,7 @@ export default function LandingPage() {
               { id: "m3", value: "150K+", description: "Total Favorites" },
             ]}
             title="Our Impact"
-            description="The numbers behind the magic."
+            description="Join millions of players in our growing ecosystem."
           />
         </div>
 

@@ -68,7 +68,7 @@ export default function LandingPage() {
           handle: "@fashionqueen",
           testimonial: "Can't wait for Makeup Stars to drop!",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png?_wi=1",
           imageAlt: "User provided image",
         },
         {
@@ -76,7 +76,7 @@ export default function LandingPage() {
           handle: "@roblox_dev",
           testimonial: "Hàlo games always delivers perfection.",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-70df7kfk.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-70df7kfk.png?_wi=1",
           imageAlt: "User provided image",
         },
         {
@@ -84,7 +84,7 @@ export default function LandingPage() {
           handle: "@runway_king",
           testimonial: "Amazing graphics and gameplay loop.",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/an-ethereal-nebula-inspired-background-w-1775839360199-e44a393f.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/an-ethereal-nebula-inspired-background-w-1775839360199-e44a393f.png?_wi=1",
           imageAlt: "An ethereal nebula-inspired background with subtle purple and blue gradient light rays. A clean, mod",
         },
         {
@@ -92,11 +92,11 @@ export default function LandingPage() {
           handle: "@makeup_fan",
           testimonial: "Simply the best experience I've had.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/cheerful-young-man-playing-video-game-tablet_1262-4766.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cheerful-young-man-playing-video-game-tablet_1262-4766.jpg?_wi=1",
           imageAlt: "happy gamer portrait",
         },
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/an-ethereal-nebula-inspired-background-w-1775839360199-e44a393f.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/an-ethereal-nebula-inspired-background-w-1775839360199-e44a393f.png?_wi=2"
       mediaAnimation="blur-reveal"
       avatars={[
         {
@@ -187,7 +187,7 @@ export default function LandingPage() {
           price: "LIVE",
           rating: 5,
           reviewCount: "2.5M+ Visits",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png?_wi=2",
         },
         {
           id: "p2",
@@ -196,7 +196,7 @@ export default function LandingPage() {
           price: "SOON",
           rating: 0,
           reviewCount: "Coming Soon",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-70df7kfk.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-70df7kfk.png?_wi=2",
         },
         {
           id: "p3",
@@ -205,7 +205,7 @@ export default function LandingPage() {
           price: "TBA",
           rating: 0,
           reviewCount: "Stay Tuned",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png?_wi=3",
         },
         {
           id: "p4",
@@ -214,7 +214,7 @@ export default function LandingPage() {
           price: "TBA",
           rating: 0,
           reviewCount: "Stay Tuned",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-70df7kfk.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-70df7kfk.png?_wi=3",
         },
         {
           id: "p5",
@@ -223,7 +223,7 @@ export default function LandingPage() {
           price: "TBA",
           rating: 0,
           reviewCount: "Stay Tuned",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-ktwug3ih.png?_wi=4",
         },
         {
           id: "p6",
@@ -232,7 +232,7 @@ export default function LandingPage() {
           price: "TBA",
           rating: 0,
           reviewCount: "Stay Tuned",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-70df7kfk.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3C4kmKEUQIDYX1gzW6F8WkxPlcT/uploaded-1775839331625-70df7kfk.png?_wi=4",
         },
       ]}
       title="Featured Titles"
@@ -252,7 +252,7 @@ export default function LandingPage() {
           role: "Player",
           company: "Show Off",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/cheerful-young-man-playing-video-game-tablet_1262-4766.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cheerful-young-man-playing-video-game-tablet_1262-4766.jpg?_wi=2",
         },
         {
           id: "t2",
